@@ -61,3 +61,5 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
+#Other files
+Lessons/Lesson_2/daily_engagement_full.csv
